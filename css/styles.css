@@ -160,7 +160,7 @@ background-color: var(--accent-text-color)
   margin-right: 50px;
 }
 
-.header_logo-color {
+.header__logo-color {
   color: #000000;
 }
 
